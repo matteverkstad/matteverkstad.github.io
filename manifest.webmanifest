@@ -1,0 +1,16 @@
+{
+  "name": "Matteverkstad",
+  "short_name": "Matteverkstad",
+  "description": "Träna positionssystemet, huvudräkning, klocka och tid och enheter.",
+  "lang": "sv",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EAF5F6",
+  "theme_color": "#EAF5F6",
+  "icons": [
+    {"src": "bilder/ikon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "bilder/ikon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "bilder/ikon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
